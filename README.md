@@ -20,5 +20,5 @@ python bot.py
 ## example
 ![alt text](discord-capture-1782709817554.png)
 
-## exploit
-![alt text](discord-capture-1782709833028.png)
+## prompt injection vuln
+![alt text](discord-capture-1782719089368.png)
